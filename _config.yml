@@ -1,0 +1,28 @@
+name: LuksFamily
+favicon: null
+layout_spectrum: 0.6156522890087217
+typography_spectrum: 0.8628809344954789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.38169343606568873
+  lightness: 0.7404464983846992
+  saturation: 0.03387437108904123
+  rhythmicContrast: 0.9165922689717263
+purpose: []
